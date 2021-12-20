@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background: linear-gradient(blue 20%, aqua 35%, skyblue 50%, lightblue 65%, aqua 80%, blue 90%, darkblue 100%);
+}
+img{
+    width: 1100px
+    ;
+    height: 1000px;
+}
